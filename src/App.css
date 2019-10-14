@@ -1,0 +1,29 @@
+.appbody{
+  text-align: center;
+  margin: auto;
+}
+
+.weatherbody{
+  margin: auto;
+  max-width: 400px;
+}
+
+.formbody{
+  padding-bottom: 15px;
+}
+
+.input{
+  border-radius:5px;
+  margin: 5px;
+  padding: 5px;
+}
+
+button{
+  width:100px;
+  height:40px;
+  font-size: large;
+}
+
+.weatherlist{
+  padding: 10px;
+}
